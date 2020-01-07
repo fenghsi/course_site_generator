@@ -1,0 +1,3 @@
+# course_site_generator
+
+This is a JavaFX project. It can be used to automatically generate an course site...
