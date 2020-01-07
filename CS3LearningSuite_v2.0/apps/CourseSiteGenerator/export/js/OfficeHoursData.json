@@ -1,0 +1,32 @@
+
+{
+    "startHour":"9",
+    "endHour":"20",
+    "instructor":{
+        "name":"Richard McKenna",
+        "link":"http://www.cs.stonybrook.edu/~richard",
+        "email":"Richard.Mckenna@stonybrook.edu",
+        "photo":"./images/RichardMcKenna.jpg",
+        "location":"New CS 216",
+        "hours":[
+            {
+                "day":"Tuesday",
+                "time":"1:00pm-2:20pm"
+            },
+            {
+                "day":"Wednesday",
+                "time":"2pm-3pm"
+            },
+            {
+                "day":"Thursday",
+                "time":"1:00pm-2:20pm"
+            }
+        ]
+    },
+    "grad_tas":[
+    ],
+    "undergrad_tas":[
+    ],
+    "officeHours":[
+    ]
+}

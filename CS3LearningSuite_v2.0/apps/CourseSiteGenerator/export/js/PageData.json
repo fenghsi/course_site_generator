@@ -1,0 +1,60 @@
+
+{
+    "subject":"CSE",
+    "semester":"Fall",
+    "number":"219",
+    "year":"2019",
+    "title":"Computer Science III",
+    "logos":{
+        "favicon":{
+            "src":"./images/images.jpg"
+        },
+        "navbar":{
+            "src":"./images/SBUDarkRedShieldLogo.png",
+            "href":"http://www.stonybrook.edu"
+        },
+        "bottom_left":{
+            "src":"./images/SBUWhiteShieldLogo.jpg",
+            "href":"http://www.cs.stonybrook.edu"
+        },
+        "bottom_right":{
+            "src":"./images/SBUCSLogo.png",
+            "href":"http://www.cs.stonybrook.edu"
+        }
+    },
+    "instructor":{
+        "name":"Richard McKenna",
+        "link":"http://www.cs.stonybrook.edu/~richard",
+        "email":"Richard.Mckenna@stonybrook.edu",
+        "location":"New CS 216",
+        "photo":"./images/RichardMcKenna.jpg",
+        "hours":[
+            {
+                "day":"Tuesday",
+                "time":"1:00pm-2:20pm"
+            },
+            {
+                "day":"Wednesday",
+                "time":"2pm-3pm"
+            },
+            {
+                "day":"Thursday",
+                "time":"1:00pm-2:20pm"
+            }
+        ]
+    },
+    "pages":[
+        {
+            "name":"Home",
+            "link":"index.html"
+        },
+        {
+            "name":"Schedule",
+            "link":"schedule.html"
+        },
+        {
+            "name":"HWs",
+            "link":"hws.html"
+        }
+    ]
+}
